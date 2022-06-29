@@ -93,6 +93,7 @@ echo "
 ========================
 Install Xcode (Manually)
 ========================
+This applies only if the OSX is not using the latest version.
 1. Go to https://xcodereleases.com
 2. Download the corresponding Xcode version depending on the OSX Version.
 eg. If you are using OSX v11.6.7 You should use Xcode ver 13.2.1 as the latest.
@@ -100,4 +101,5 @@ eg. If you are using OSX v11.6.7 You should use Xcode ver 13.2.1 as the latest.
 4. Run the Xcode at /Applications/Xcode.app
    If you experienced issue, run the below command in terminal:
    sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
-   This fixes an issue due to command tools path are incorrect."
+   This fixes an issue -> Required content for iOS Simulator is missing 
+   It is due to command tools path are incorrect."
