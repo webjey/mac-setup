@@ -76,3 +76,28 @@ cat packages.mas.txt | sed 's/ .*//' | xargs mas install
 # Remove brew leftovers
 echo "Cleanup brew left overs"
 brew cleanup
+
+
+# 
+# Install ClassHive App dependencies
+# 
+npm install -g cordova
+npm install -g @ionic/cli
+
+
+
+# 
+# Manuall Install Xcode Instruction
+# 
+echo " 
+========================
+Install Xcode (Manually)
+========================
+1. Go to https://xcodereleases.com
+2. Download the corresponding Xcode version depending on the OSX Version.
+eg. If you are using OSX v11.6.7 You should use Xcode ver 13.2.1 as the latest.
+3. Move the downloaded *.XPI to /Applications folder and extract it there.
+4. Run the Xcode at /Applications/Xcode.app
+   If you experienced issue, run the below command in terminal:
+   sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+   This fixes an issue due to command tools path are incorrect."
