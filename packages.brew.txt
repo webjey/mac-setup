@@ -1,6 +1,4 @@
-cowsay
 figlet
-fortune
 fzf
 git
 node
@@ -12,8 +10,6 @@ zsh
 zsh-completions
 zsh-syntax-highlighting
 perl
-python
-python3
 wget
 watch
 ssh-copy-id
