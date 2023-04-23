@@ -1,6 +1,4 @@
 462058435   Microsoft Excel  (16.70)
 482898991   LiveReload       (2.3.81)
 937984704   Amphetamine      (5.2.2)
-497799835   Xcode            (13.2.1)
-1355679052  Dropover         (4.9.1)
 1274495053  Microsoft To Do  (2.90)
