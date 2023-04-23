@@ -1,0 +1,7 @@
+diffmerge
+android-studio
+bettertouchtool
+charles
+dash
+fantastical
+flycut
