@@ -3,4 +3,4 @@ wget
 parallel
 fswatch
 cloudflared
-sentry-cli
+getsentry/tools/sentry-cli

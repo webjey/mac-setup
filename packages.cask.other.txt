@@ -5,3 +5,4 @@ charles
 dash
 fantastical
 flycut
+kaleidoscope # has formulae issue
