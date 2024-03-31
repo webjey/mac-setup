@@ -1,6 +1,14 @@
 figlet
 wget
-parallel
 fswatch
-cloudflared
-getsentry/tools/sentry-cli
+docker-completion
+http-server
+httpie
+jq
+mysql
+nvm
+poetry
+pyenv
+telnet
+virtualenv
+wget
